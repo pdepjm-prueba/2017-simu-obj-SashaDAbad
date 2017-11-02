@@ -19,3 +19,15 @@ class Rol{
 	var herramientas
 	method 
 }
+
+class Soldado{
+	
+}
+
+class Obrero{
+	
+}
+
+class Mucama{
+	
+}
